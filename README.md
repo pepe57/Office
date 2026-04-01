@@ -97,6 +97,5 @@
   * <https://learn.microsoft.com/en-us/microsoft-365/troubleshoot/installation/product-ids-supported-office-deployment-click-to-run>
 * [Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
 * [Deploy Office](https://learn.microsoft.com/en-us/deployoffice/deployment-guide-microsoft-365-apps)
-* [Uninstall Office (SaRA)](https://www.microsoft.com/en-us/download/details.aspx?id=103391)
+* [GetHelpCmd (ex-SaRA)](https://learn.microsoft.com/en-us/troubleshoot/microsoft-365/admin/miscellaneous/get-help-command-line-overview)
 * [OffScrubC2R.vbs 2.19](https://github.com/farag2/Office/tree/master/Office_Uninstall)
-* [Office Tool Plus](https://github.com/YerongAI/Office-Tool)
