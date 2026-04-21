@@ -1,4 +1,4 @@
-## Download Microsoft 365 (Office 365) via ODT with PowerShell
+## Download Microsoft 365 (Office 365) & Microsoft Office 2024 LTSC via ODT with PowerShell
 
 ## How-to
 
