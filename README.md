@@ -31,7 +31,8 @@
     * Publisher
     * PowerPoint
     * Teams
-    * ProjectPro2024Volume
+    * Project Pro 2024
+    * Visio Pro 2024
 
   ```powershell
   .\Download.ps1 -Branch ProPlus2024Volume -Channel PerpetualVL2024 -Components Excel, OneDrive, PowerPoint, Word
